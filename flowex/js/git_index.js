@@ -56,21 +56,3 @@ var master = gitgraph.branch({
 });
 master.commit("Initial commit");
 
-master.commit({
-  messageDisplay: false
-});
-
-master.commit({
-  messageDisplay: false
-});
-
-master.commit({
-  messageDisplay: false
-});
-
-master.commit({
-  messageDisplay: false
-});
-
-
-
